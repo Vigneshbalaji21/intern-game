@@ -300,7 +300,7 @@ const player = new Player({
 		y:630,
 	},
 	CollissionBlocks,
-	imageSrc:'./cidle.png.',
+	imageSrc:'./cidle.png',
 	framerate:11,
 	animations:{
 		idle:{
